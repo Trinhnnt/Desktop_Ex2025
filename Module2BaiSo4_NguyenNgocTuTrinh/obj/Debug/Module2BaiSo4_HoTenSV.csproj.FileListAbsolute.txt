@@ -1,0 +1,10 @@
+D:\Tai lieu ueh\Desktop\31221024321_NguyenNgocTuTrinh_Tuan2\Module2BaiSo4_HoTenSV\bin\Debug\Module2BaiSo4_HoTenSV.exe.config
+D:\Tai lieu ueh\Desktop\31221024321_NguyenNgocTuTrinh_Tuan2\Module2BaiSo4_HoTenSV\bin\Debug\Module2BaiSo4_HoTenSV.exe
+D:\Tai lieu ueh\Desktop\31221024321_NguyenNgocTuTrinh_Tuan2\Module2BaiSo4_HoTenSV\bin\Debug\Module2BaiSo4_HoTenSV.pdb
+D:\Tai lieu ueh\Desktop\31221024321_NguyenNgocTuTrinh_Tuan2\Module2BaiSo4_HoTenSV\obj\Debug\Module2BaiSo4_HoTenSV.csproj.AssemblyReference.cache
+D:\Tai lieu ueh\Desktop\31221024321_NguyenNgocTuTrinh_Tuan2\Module2BaiSo4_HoTenSV\obj\Debug\Module2BaiSo4_HoTenSV.ChangeMoneyForm.resources
+D:\Tai lieu ueh\Desktop\31221024321_NguyenNgocTuTrinh_Tuan2\Module2BaiSo4_HoTenSV\obj\Debug\Module2BaiSo4_HoTenSV.Properties.Resources.resources
+D:\Tai lieu ueh\Desktop\31221024321_NguyenNgocTuTrinh_Tuan2\Module2BaiSo4_HoTenSV\obj\Debug\Module2BaiSo4_HoTenSV.csproj.GenerateResource.cache
+D:\Tai lieu ueh\Desktop\31221024321_NguyenNgocTuTrinh_Tuan2\Module2BaiSo4_HoTenSV\obj\Debug\Module2BaiSo4_HoTenSV.csproj.CoreCompileInputs.cache
+D:\Tai lieu ueh\Desktop\31221024321_NguyenNgocTuTrinh_Tuan2\Module2BaiSo4_HoTenSV\obj\Debug\Module2BaiSo4_HoTenSV.exe
+D:\Tai lieu ueh\Desktop\31221024321_NguyenNgocTuTrinh_Tuan2\Module2BaiSo4_HoTenSV\obj\Debug\Module2BaiSo4_HoTenSV.pdb
